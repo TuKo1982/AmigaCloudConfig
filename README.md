@@ -2,7 +2,7 @@ I made this simple MUI 3.8 GUI to ease configuration of Norbert Kett's Amiga Clo
 
 ![alt text](https://github.com/TuKo1982/AmigaCloudConfig/blob/main/screenshot.jpg?raw=true)
 
-As of today, Amiga Cloud Handlers in their current version are not working anymore so probably is high that my GUI is also not working as expected as I couldn't test every feature. If anyone is interested into continuing Norbert's work, I will try to make sure the GUI works as intended.
+As of today, Amiga Cloud Handlers in their current version are not working anymore so probability is high that my GUI is also not working as expected as I couldn't test every feature. If anyone is interested into continuing Norbert's work, I will try to make sure the GUI works as intended.
 
 AmigaCloudHandlers binaries :
 https://aminet.net/package/comm/tcp/AmigaCloudHandlers
